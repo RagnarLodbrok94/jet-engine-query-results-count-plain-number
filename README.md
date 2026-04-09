@@ -1,3 +1,8 @@
+## ❗❗❗ Deprecated Notice
+
+**Starting from JetEngine 3.8.9, this add-on is deprecated.**  
+The functionality to return Query Results Count as a plain number is now available in the core plugin.
+
 ## Description
 Adds a new Dynamic Tag that allows you to return the number of query results as a simple number.
 
